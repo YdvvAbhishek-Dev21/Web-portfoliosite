@@ -1,0 +1,146 @@
+body{
+    color: #40514e;
+    margin: 0px;
+    text-align: center;
+    font-family: 'merriweather',serif;
+   
+}
+ 
+h1{
+    color: #66BFBF;
+   font-size: 5.5rem;
+   margin : 50px auto 0 auto;
+ font-family:'Sacramento',cursive;
+  
+}
+
+h2{
+    
+    color: #66BFBF;
+    font-family: "Montserrat",sans-serif;
+    font: size 2.5rem; 
+    font-weight: normal;
+    padding-bottom: 10px;
+    
+}
+h3{
+    color: #11999E;
+    font-family:  "Montserrat",sans-serif;
+    
+    
+}
+.top-container{
+    background-color: beige;
+    position: relative;
+    padding-top: 90px;
+
+
+}
+    
+p{
+    line-height: 2;
+}
+
+.web{
+    text-decoration: underline;
+}
+.intro{
+    width: 30%;
+    margin: auto;
+}
+.contact-message{
+    width: 40%;
+    margin: 40px auto 60px auto;
+}
+
+.top-cloud{
+    position: absolute;
+    margin-left: 300px;
+    top: 40px;
+}
+ 
+.bottom-cloud 
+{position: absolute;
+ left: 250px;
+ bottom: 300px;
+}
+
+.imp-profile{
+    width: 15%;
+    background-color:coral;
+}
+.skill-row{
+    width: 50%;
+    text-align: left;
+    
+    margin: 100px auto 100px auto
+    
+}
+.skill-first{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+    background-color:coral;
+}
+.skill-sec{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+    background-color:coral;
+}
+.middle-container{
+    margin: 50px 0;
+    
+    background-color:beige;
+}
+.bottom-container{
+    background-color:beige;
+    padding: 50px 0 20px;
+}
+a{
+color: #11999E;
+font-family:  "Montserrat",sans-serif;
+text-decoration: none;
+margin: 10px 20px;
+
+}
+a:hover{
+    color: #ccf1f1;
+}
+hr{
+    border: dotted #4ba592 6px;
+   border-bottom: none;
+   margin: 100px auto;
+    width: 4%;
+
+}
+ 
+.copyright {
+    color: #eaf6f6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+
+}
+
+.btn {
+    font-size:15px;
+    font-family: 'merriweather',serif;
+    width:135px;
+    height:47px;
+    border-width:1px;
+    color:#14396a;
+    border-color:#3866a3;
+    font-weight:bold;
+    border-top-left-radius:6px;
+    border-top-right-radius:6px;
+    border-bottom-left-radius:6px;
+    border-bottom-right-radius:6px;
+    box-shadow:inset 0px 0px 0px 0px #bee2f9;
+    text-shadow:inset 0px 1px 0px #7cacde;
+    background:linear-gradient(#63b8ee, #468ccf);
+  }
+  
+  .btnClass:hover {
+    background: linear-gradient(#468ccf, #63b8ee);
+  }
+         
